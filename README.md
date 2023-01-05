@@ -1,5 +1,7 @@
 ![banner](https://i.imgur.com/T9KFRHo.jpg)
+
 <h1 align ="center">Hi, I'm RyuSyntax (LeprechauN)</h1>
+
 <h3 align = "center"><strong>Young cibersecurity student👩‍💻 </h3>
   
 <p align="center">
@@ -13,6 +15,7 @@
 
 <img src = "https://i.imgur.com/yb4hY6S.png" align ="right" width = 50%>
 <div align = left width = 50%>
+
 <h2 style="font-size:30px"><b> 🙋🏻‍♂️ About ME <b></h2>
 <ul>
 <li>I'm constantly learning, and I like to share my knowledge</li>
@@ -60,7 +63,7 @@ https://lawyt.sellix.io)
   ## ❤ I will be posting some interesting posts here
 
 <p align="center">
-
+<img src="https://i.imgur.com/MYuieET.gif" align ="center" width = 30%>
 <!-- YOUTUBE:START <table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">Make Your Discord LOOK MODERN- Fluent Theme</a><br/>Aug 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
