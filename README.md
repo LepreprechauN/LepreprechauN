@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/T9KFRHo.jpg)
 <h1 align ="center">Hi, I'm RyuSyntax (LeprechauN)</h1>
-<h3 align = "center"><strong>Silent Teacher on YouTube👩‍💻 </h3>
+<h3 align = "center"><strong>Young cibersecurity student👩‍💻 </h3>
   
 <p align="center">
     <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
@@ -18,7 +18,7 @@
 <li>I'm constantly learning, and I like to share my knowledge</li>
 <li>I'm a student in computer engineering💻</li>
 <li>In my spare time, I'm a designer</li>
-<li>📭 Reach me at my mail law_official@protonmail.com</li>
+<li>📭 Reach me at my mail syntax@ryusyntax.com</li>
 <ul>
 </div>
 <br>
@@ -52,16 +52,16 @@ https://lawyt.sellix.io)
 ## 📊 My Github Stats
 <p align="center">
   <br/>
-    <a href="https://github.com/LawOff/github-readme-stats"><img alt="LawOff's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LawOff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Chaitanya-Pratap-Singh/github-readme-stats"><img alt="Chaitanya-Pratap-Singh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LawOff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/LepreprechauN/github-readme-stats"><img alt="Syntax's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LepreprechauN&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/LepreprechauN/github-readme-stats"><img alt="Syntax's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LepreprechauN&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 </p>
 
-  ## ❤ Latest YouTube Videos
+  ## ❤ I will be posting some interesting posts here
 
 <p align="center">
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START <table><tr><td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg"><img width="140px" src="https://i.ytimg.com/vi/yExK6CvwTGg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yExK6CvwTGg">Make Your Discord LOOK MODERN- Fluent Theme</a><br/>Aug 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA"><img width="140px" src="https://i.ytimg.com/vi/VZQSBsnobJA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=VZQSBsnobJA">How to EASILY Organize your Discord DM&#39;s</a><br/>Aug 16, 2022</td></tr></table>
