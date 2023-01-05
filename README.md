@@ -3,9 +3,9 @@
 <h3 align = "center"><strong>Young cibersecurity student👩‍💻 </h3>
   
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCbfGHhyeHpKXF5rl1cRfvbg?sub_confirmation=1">
+    <a href="https://www.youtube.com/channel/UCt4nfpH8XL9DzBym_yOOesQ">
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://discord.gg/cPKc5B6Gnv" alt="Dev Pro Tips Discussion & Support Server">
+  <a href="https://discord.gg/tryhackme" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
   </p>
 </p>
@@ -35,11 +35,11 @@
 <div>
 <h2  > Join US Now</h2>
 
-[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/c/laaw_tutorials)
+[<img align="top" alt="youtube" src="https://img.shields.io/badge/Youtube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCt4nfpH8XL9DzBym_yOOesQ)
 <br>  
-[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/cPKc5B6Gnv)
+[<img align="top" alt="discord" src="https://img.shields.io/badge/Discord-5165f6?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/tryhackme)
 <br>  
-[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LawOff)
+[<img align="top" alt="github" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/LepreprechauN)
 <br>  
 [<img align="top" alt="sellix" src="https://img.shields.io/badge/Sellix-6a3ce2?logo=Stripe&logoColor=white&style=for-the-badge"/>](	
 https://lawyt.sellix.io)
