@@ -1,39 +1,16 @@
 <p align="left"> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Magno+Efren.+Welcome!)](https://www.youtube.com/c/MagnoEfren/videos)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Ryu+Syntax.+Welcome!)](https://www.twitch.tv/ryusyntax)
 
 ![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
 
 <div align="center">  
   
-<a href="https://instagram.com/magnoefren" target="_blank">
-<img src=https://img.shields.io/badge/instagram-F4A98F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  
-<a href="https://www.youtube.com/c/MagnoEfren" target="_blank">
-  
-<img src="https://img.shields.io/badge/YouTube-FF0905?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">   
-<a href="https://twitter.com/magnoefren15" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-8FC3F4?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 
-<a href="https://www.linkedin.com/in/magnoefren/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
 
- </a>  
-  
-### [Youtube](https://youtube.com/magnoefren?sub_confirmation=1)
 
-<a href='https://youtu.be/AAxijGx9_Pc' target='_blank'>
-  <img width='30%' src='https://github.com/MagnoEfren/magnoefren/blob/main/images/video01.png' alt='Efecto Matrix con Python' />
-</a>
-<a href='https://youtu.be/SOYa_nZKaWg' target='_blank'>
-  <img width='30%' src='https://github.com/MagnoEfren/magnoefren/blob/main/images/video02.png' alt='GUI con PyQt5 - Arduino' />
-</a>
-<a href='https://youtu.be/EYs6uWmCWwI' target='_blank'>
-  <img width='30%' src='https://github.com/MagnoEfren/magnoefren/blob/main/images/video03.png' alt='Aplicación android en Python con base de datos' />
-</a>
-![banner](https://i.imgur.com/T9KFRHo.jpg)
 
-<h1 align ="center">Hi, I'm RyuSyntax (LeprechauN)</h1>
+<h1 align ="center">RyuSyntax (LeprechauN)</h1>
 
 <h3 align = "center"><strong>Young cibersecurity student👩‍💻 </h3>
   
@@ -42,6 +19,10 @@
       <img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://discord.gg/tryhackme" alt="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/836621542917275668?color=7289DA&labelColor=4a64bd&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  
+  <a href="https://www.linkedin.com/in/ruben-borrego-207037252/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-4B49B9?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"> 
+
   </p>
 </p>
 <br>
