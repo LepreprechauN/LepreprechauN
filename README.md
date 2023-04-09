@@ -35,7 +35,7 @@
 <li>I'm constantly learning, and I like to share my knowledge</li>
 <li>I'm a student in computer engineering💻</li>
 <li>In my spare time, I'm a designer</li>
-<li>📭 Reach me at my mail syntax@ryusyntax.com</li>
+<li>📭 Reach me at my mail rul.min102@gmail.com</li>
 <ul>
 </div>
 <br>
