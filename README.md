@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Ryu+Syntax.+Welcome!)](https://www.twitch.tv/ryusyntax)
 
-![Snake animation](https://github.com/MagnoEfren/magnoefren/blob/main/github_snake.svg)
+![Snake animation](https://github.com/LepreprechauN/LepreprechauN/blob/main/github_snake.svg)
 
 <div align="center">  
   
